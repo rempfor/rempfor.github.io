@@ -76,3 +76,5 @@ async function startTextWriter() {
     await writeText("Ну, у меня есть свой сервер в Дискорд, где я собрал много дружелюбных участников, с которыми можно поиграть во что-нибудь. Практически каждый из них мой друг. ❤️ вас!")
     await reverse();
 }
+
+//document.addEventListener("DOMContentLoaded", startExecution);
